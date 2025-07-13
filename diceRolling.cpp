@@ -380,7 +380,7 @@ int main() {
 							case 4://semester register
 								if (semArr[forInfo] == "First Semester" || semArr[forInfo] == "Second Semester") {
 									system("cls");
-									cout << "You cannot register the sem again \n";
+									cout << "You cannot register the sem again. Please try again. \n";
 									Sleep(1000);
 								}
 								else {
