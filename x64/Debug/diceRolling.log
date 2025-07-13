@@ -1,0 +1,3 @@
+﻿  diceRolling.cpp
+D:\C++\cppProject\diceRolling\diceRolling.cpp(69,7): warning C4101: 'q1': unreferenced local variable
+  diceRolling.vcxproj -> D:\C++\cppProject\x64\Debug\diceRolling.exe
